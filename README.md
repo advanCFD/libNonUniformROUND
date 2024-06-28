@@ -19,7 +19,7 @@ The library can work with any OpenFOAM solvers containing convection terms.
 ```
 libs
 (
-    "libROUNDSchemes.so" 
+    "libNonUniformROUND.so" 
 );
 ```
 ## Validation and Verification
